@@ -10,4 +10,5 @@ import com.baomidou.mybatisplus.extension.service.IService;
 */
 public interface ApartmentFacilityService extends IService<ApartmentFacility> {
 
+
 }
